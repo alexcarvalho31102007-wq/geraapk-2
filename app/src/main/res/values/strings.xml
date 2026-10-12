@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GERA APK</string>
+    <string name="select_zip_button">Selecionar Arquivo ZIP</string>
+    <string name="tab_home">Compilar</string>
+    <string name="tab_history">Histórico</string>
+    <string name="copy_logs">Copiar logs</string>
+    <string name="download_apk">Baixar APK</string>
+    <string name="view_logs">Ver Logs</string>
+</resources>

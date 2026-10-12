@@ -1,0 +1,6 @@
+{
+  "name": "GERA APK",
+  "description": "Compilador Android automático na nuvem utilizando GitHub Actions a partir de arquivos ZIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
